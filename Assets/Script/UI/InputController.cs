@@ -59,7 +59,7 @@ public class InputController : MonoBehaviour
         string str1 = ConvertDictionaryToJson(messagedist);
         print("ConvertDictionaryToJson: " + str1);
 
-        GetComponent<MessageQueue>().EnqueueMessage(str1);
+        GetComponent<MessageQueue>().EnqueueMessage_str(str1);
     }
 
     string ConvertDictionaryToJson(IDictionary<string, string> dictionary)
@@ -82,13 +82,19 @@ public class InputController : MonoBehaviour
         return json;
     }
 
-    public void getBackMsg(string object_value,string action_value)
+    public void getBackMsg(string object_value,string action_value,string action_speed)
     {
         for (int i = 0;i<animals.Count;i++)
         {
             if(object_value== animals[i].GetComponent<AnimalController>().animal_name)
             {
+                print("get animal: " + object_value);
+                
+                
+                animals[i].GetComponent<AnimalController>().setMotionSpeed(action_value,action_speed);
+                print("finish set motion speeed");
                 animals[i].GetComponent<AnimalController>().setMotionTrigger(action_value);
+                print("finish set triger");
                 break;
             }
         }

@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project_unity\\AnimalDraw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|e:\\project_unity\\animaldraw\\assets\\script\\animation\\statusmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animation\\statusmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|e:\\project_unity\\animaldraw\\assets\\script\\animal\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animal\\animalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|E:\\project_unity\\AnimalDraw\\assets\\script\\testanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\testanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|E:\\project_unity\\AnimalDraw\\assets\\script\\animation\\animationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animation\\animationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|E:\\project_unity\\AnimalDraw\\assets\\script\\ui\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|E:\\project_unity\\AnimalDraw\\assets\\script\\connect\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\connect\\messagequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|E:\\project_unity\\AnimalDraw\\assets\\script\\ui\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|E:\\project_unity\\AnimalDraw\\assets\\script\\testobjpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDF591F-83D8-FA54-DB38-72F4D1BE848A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\testobjpath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusMachine.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Animation\\StatusMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Animation\\StatusMachine.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Animation\\StatusMachine.cs",
+              "RelativeToolTip": "Assets\\Script\\Animation\\StatusMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:43:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimationEventHandler.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Animation\\AnimationEventHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Animation\\AnimationEventHandler.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Animation\\AnimationEventHandler.cs",
+              "RelativeToolTip": "Assets\\Script\\Animation\\AnimationEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:11:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestObjpath.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\TestObjpath.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TestObjpath.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\TestObjpath.cs",
+              "RelativeToolTip": "Assets\\Script\\TestObjpath.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:01:05.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageLoader.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\UI\\ImageLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\ImageLoader.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\UI\\ImageLoader.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\ImageLoader.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:55:02.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestAnimator.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\TestAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TestAnimator.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\TestAnimator.cs",
+              "RelativeToolTip": "Assets\\Script\\TestAnimator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:41:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalController.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Animal\\AnimalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Animal\\AnimalController.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Animal\\AnimalController.cs",
+              "RelativeToolTip": "Assets\\Script\\Animal\\AnimalController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T19:36:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageQueue.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Connect\\MessageQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Connect\\MessageQueue.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\Connect\\MessageQueue.cs",
+              "RelativeToolTip": "Assets\\Script\\Connect\\MessageQueue.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAcwG0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:23:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\UI\\InputController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\InputController.cs",
+              "ToolTip": "E:\\project_unity\\AnimalDraw\\Assets\\Script\\UI\\InputController.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\InputController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA9wF4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:43:14.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

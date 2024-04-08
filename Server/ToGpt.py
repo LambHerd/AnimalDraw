@@ -40,10 +40,11 @@ def gpt_35_api_stream(messages: list):
 
 def togpt(msg,message_object,message_motion):
     # str1="对文本进行语义分析，识别出对象和动作，对象包括[MountainPuma]，动作包括[licking,standing,stretching,laying,roar,walk]，对象或动作不能为空，未识别到时，对象应该根据生物分类学选择最相似动物，动作应该使用最相似动作。返回结果名称必须与给定名称相同。结果只输出[object,action]\n"
-    str1="对文本进行语义分析，识别出对象和动作，"
-    str1+="对象包括["+message_object+"]，"
-    str1+="动作包括["+message_motion+"]，"    
-    str1+="对象或动作不能为空，未识别到时，对象应该根据生物分类学选择最相似动物，动作应该使用最相似动作。要求结果必须与给出的对象或动作相同。结果只输出json格式的object,action\n"
+    str1="对文本进行语义分析，识别出对象、动作和动作的执行速度，"
+    str1+="对象object包括["+message_object+"]，"
+    str1+="动作action包括["+message_motion+"]，"  
+    str1+="动作的执行速度speed包括[fast,slow,notchange]。如果文本中没有提及速度，则为notchange。"   
+    str1+="对象或动作不能为空，未识别到时，对象应该根据生物分类学选择最相似动物，动作应该使用最相似动作。要求结果必须与给出的对象和动作相同。结果只输出json格式的object,action,speed\n"
     str1+="文本："+msg
 
 
